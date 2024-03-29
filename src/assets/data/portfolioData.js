@@ -1,6 +1,5 @@
 import portfolioImg01 from "../images/portfolio-01.jpg";
 import portfolioImg02 from "../images/portfolio-02.jpg";
-import portfolioImg03 from "../images/portfolio-03.jpg";
 import portfolioImg04 from "../images/portfolio-04.jpg";
 import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
@@ -49,7 +48,7 @@ const portfolios = [
   },
   {
     id: "05",
-    imgUrl: portfolioImg03,
+    imgUrl: portfolioImg04,
     category: "Web Design",
     title: "Landing Page",
     description:
@@ -100,7 +99,7 @@ const portfolios = [
   },
   {
     id: "10",
-    imgUrl: portfolioImg03,
+    imgUrl: portfolioImg04,
     category: "Ux",
     title: "File Sharing Website",
     description:
