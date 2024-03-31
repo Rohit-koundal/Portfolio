@@ -6,6 +6,7 @@ import Footer from './components/Footer/Footer';
 import Profile from './components/Profile/PRofile';
 import Services from './components/Services/Services';
 import Portfolio from './components/Portfolio/Portfolio';
+import { Contact } from './components/contact/Contact';
 function App() {
   useEffect(()=>{
     Aos.init();
@@ -17,6 +18,7 @@ function App() {
      <Profile/>
      <Services />
      <Portfolio />
+     <Contact/>
     </main>
     <Footer/>
     </>

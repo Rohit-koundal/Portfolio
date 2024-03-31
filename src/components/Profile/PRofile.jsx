@@ -31,10 +31,14 @@ const Profile =() => {
                 <p data-aos='fade-left'
                 data-aos-duration="1500" className='flex gap-2
                 text-headingColor mt-14 font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10'>
-                    <span><i className='ri-apps-2-line'></i></span>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br></br>
-                     Hic cumque sunt, voluptatem aspernatur aliquam odio <br></br>
-                 nisi fuga quasi in placeat, officiis quo repudiandae<br></br> 
-                nesciunt possimus vel molestiae consequuntur cupiditate neque!</p>
+                    <span><i className='ri-apps-2-line'></i></span>With over 5+ years of professional experience as a Frontend Engineer, I have demonstrated expertise in Angular,
+Reactjs, and multiple programming languages. My collaborative work ethic shines in both team settings and
+independent projects, reflecting a solid grasp of object-oriented analysis. I am dedicated to enhancing existing
+systems and technologies by implementing common programming design patterns and best practices. With
+excellent communication skills and a keen eye for detail, I efficiently tackle complex tasks. Equipped with
+analytical prowess and strong problem-solving abilities, I consistently deliver high-quality solutions
+autonomously.
+</p>
 
                 <div className='flex items-center gap-9 mt-14' data-aos="fade-left" data-aos-duration='1000'>
                     <span className='text-smallTextColor text-[15px] font-[600]'>
