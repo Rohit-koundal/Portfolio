@@ -15,7 +15,7 @@ export default function Footer() {
                 <i className='ri-mail-line'></i>Hire me</button></a>
           </div>
           <div className="w-full sm:w-1/2">
-            <p className ="text-gray-300 leading-7 mt-4 sm:mt-0">asfasf asf aaas asfasfasfasfa fasfasfasfasf asfasfaf afafaefafasfafs</p>
+            <p className ="text-gray-300 leading-7 mt-4 sm:mt-0">Full stack programming, frontend, backend, and UX/UI design are my areas of expertise. I create eye-catching user interfaces and strong backend systems to provide complete digital solutions that are customised to meet your demands. Together, we can improve your online visibility and foster success.</p>
          
          <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10">
           <span className="text-gray-300 font-[600] text-[15px]">Follow Me:</span>

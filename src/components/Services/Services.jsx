@@ -9,7 +9,7 @@ export default function Services() {
                     <h2 className='text-headingColor font-[800] text-[2.4rem] mb-5'>
                         What do I help
                     </h2>
-                    <p className='lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[16px] leading-7'> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore quaerat veniam quam distinctio nam voluptatum nisi quos facere ab incidunt, vitae perspiciatis eos velit in! Vel illo perspiciatis dolorem? Quos.</p>
+                    <p className='lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[16px] leading-7'>I specialize in backend, frontend, full stack development, and UX/UI design. From crafting robust backend solutions to creating captivating user interfaces, I deliver comprehensive digital solutions tailored to your needs. Let's collaborate to elevate your digital presence and drive success.</p>
                 </div>
 
                 <div className='flex flex-col justify-center sm:py-12'>
@@ -33,7 +33,7 @@ export default function Services() {
                                             group-hover:font-[600] text-xl'>Frontend Developer</h3>
                                                 <p className='text-[18px] text-smallTextColor group-hover:text-white group-hover:font-[500]
                                             leading-7'>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime facere fugiat beatae,
+                                                    Frontend expertise in Angular, HTML, CSS, React, Tailwind CSS, Bootstrap, Redux, and Material UI. Elevate your digital presence today.
                                                 </p>
                                             </div>
                                         </div>
@@ -65,7 +65,7 @@ export default function Services() {
                                             group-hover:font-[600] text-xl'>Backend Developer</h3>
                                                 <p className='text-[18px] text-smallTextColor group-hover:text-white group-hover:font-[500]
                                             leading-7'>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime facere fugiat beatae,
+                                                    Backend mastery in Node.js, Express.js, and MongoDB. Empower your platform with robust functionality. Let's enhance your digital infrastructure together.
                                                 </p>
                                             </div>
                                         </div>
@@ -96,7 +96,7 @@ export default function Services() {
                                             group-hover:font-[600] text-xl'>Full Stack Developer</h3>
                                                 <p className='text-[18px] text-smallTextColor group-hover:text-white group-hover:font-[500]
                                             leading-7'>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime facere fugiat beatae,
+                                                   Full stack proficiency in MERN (MongoDB, Express.js, React, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js). Unlock comprehensive solutions for your digital needs.
                                                 </p>
                                             </div>
                                         </div>
@@ -126,9 +126,9 @@ export default function Services() {
                                 group hover:bg-primaryColor cursor-pointer ease-in duration-150'>
                                                 <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white
                                             group-hover:font-[600] text-xl'>UX/UI Designer</h3>
-                                                <p className='text-[18px] text-smallTextColor group-hover:text-white group-hover:font-[500]
+                                                <p className='text-[18px] text-smallTextColor group-hover:text-white group-hover:font-[600]
                                             leading-7'>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime facere fugiat beatae,
+                                                   UI/UX expertise in crafting intuitive interfaces and seamless user experiences. Elevate your digital platform with captivating design and user-centric solutions.
                                                 </p>
                                             </div>
                                         </div>
