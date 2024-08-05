@@ -19,13 +19,14 @@ const Header = () => {
   }, [])
 
   const handlerClick = (e) => {
-    e.preventDefault()
-    const targetAttr = e.target.getAttribute('href');
+    e.preventDefault();
+    const targetAttr = e.currentTarget.getAttribute('href');
     const location = document.querySelector(targetAttr).offsetTop;
 
     window.scrollTo({
       top: location - 80,
       left: 0,
+      behavior:'smooth'
     })
   }
 

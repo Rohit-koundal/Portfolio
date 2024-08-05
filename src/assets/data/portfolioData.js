@@ -4,78 +4,81 @@ import portfolioImg04 from "../images/portfolio-04.jpg";
 import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
+import portfolioImg08 from "../images/portfolio-08.jpg";
+import portfolioImg09 from "../images/portfolio-09.jpg";
+import portfolioImg10 from "../images/portfolio-10.jpg";
 
 const portfolios = [
   {
     id: "01",
-    imgUrl: portfolioImg01,
+    imgUrl: portfolioImg09,
     category: "Web Design",
-    title: "Finance Technology Website",
+    title: "EdTech Games Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "https://www.google.com/",
+    siteUrl: "https://edtechgames.com/",
   },
   {
     id: "02",
-    imgUrl: portfolioImg04,
+    imgUrl: portfolioImg10,
     category: "Ux",
     title: "Video Conference Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://login.edtechgames.com/login",
   },
   {
     id: "03",
-    imgUrl: portfolioImg02,
-    category: "Ux",
-    title: "Multimedia Sharing Website",
+    imgUrl: portfolioImg04,
+    category: "Web Design",
+    title: "Zamplia.com",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://zamplia.com/",
   },
   {
     id: "04",
-    imgUrl: portfolioImg05,
+    imgUrl: portfolioImg08,
     category: "Web Design",
-    title: "Landing Page",
+    title: "Restaurent Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://restaurant-mern-app-frontend.onrender.com",
   },
   {
     id: "05",
-    imgUrl: portfolioImg04,
+    imgUrl: portfolioImg05,
     category: "Web Design",
-    title: "Landing Page",
+    title: "Drikpanchang.com",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://www.drikpanchang.com",
   },
 
   {
     id: "06",
     imgUrl: portfolioImg06,
     category: "Ux",
-    title: "Online Therapy Website",
+    title: "Dimitri",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://dimitra.io/",
   },
   {
     id: "07",
     imgUrl: portfolioImg07,
-    category: "Web Design",
-    title: "Appointment Booking Website",
+    category: "Ux",
+    title: "Omni Food",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    technologies: ["HTML", "css", "Javascript"],
+    siteUrl: "https://recipe-app-y7c1.onrender.com",
   },
   {
     id: "08",
