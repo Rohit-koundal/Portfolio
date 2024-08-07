@@ -7,6 +7,8 @@ import portfolioImg07 from "../images/portfolio-07.jpg";
 import portfolioImg08 from "../images/portfolio-08.jpg";
 import portfolioImg09 from "../images/portfolio-09.jpg";
 import portfolioImg10 from "../images/portfolio-10.jpg";
+import portfolioImg11 from "../images/portfolio-11.jpg";
+import portfolioImg12 from "../images/portfolio-12.jpg";
 
 const portfolios = [
   {
@@ -42,7 +44,7 @@ const portfolios = [
   {
     id: "04",
     imgUrl: portfolioImg08,
-    category: "Web Design",
+    category: "Ux",
     title: "Restaurent Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
@@ -52,7 +54,7 @@ const portfolios = [
   {
     id: "05",
     imgUrl: portfolioImg05,
-    category: "Web Design",
+    category: "Ux",
     title: "Drikpanchang.com",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
@@ -73,7 +75,7 @@ const portfolios = [
   {
     id: "07",
     imgUrl: portfolioImg07,
-    category: "Ux",
+    category: "Web Design",
     title: "Omni Food",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
@@ -92,9 +94,9 @@ const portfolios = [
   },
   {
     id: "09",
-    imgUrl: portfolioImg02,
+    imgUrl: portfolioImg12,
     category: "Ux",
-    title: "Video Conference Website",
+    title: "STUK Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
@@ -102,8 +104,8 @@ const portfolios = [
   },
   {
     id: "10",
-    imgUrl: portfolioImg04,
-    category: "Ux",
+    imgUrl: portfolioImg11,
+    category: "Basic Mining Website",
     title: "File Sharing Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
