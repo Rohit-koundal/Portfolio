@@ -1,4 +1,3 @@
-
 import portfolioImg04 from "../images/portfolio-04.jpg";
 import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
@@ -17,7 +16,14 @@ const portfolios = [
     title: "EdTech Games Website",
     description:
       "EdTechGames seamlessly integrates learning and play, using data to personalize educational experiences while securely handling user activity and study patterns. Our platform fosters collaborative learning, making education engaging and effective.",
-    technologies: ["HTML", "Angular14", "SASS", "Typescript", "Angular Material UI", "Bootstrap"],
+    technologies: [
+      "HTML",
+      "Angular14",
+      "SASS",
+      "Typescript",
+      "Angular Material UI",
+      "Bootstrap",
+    ],
     siteUrl: "https://edtechgames.com/",
   },
   {
@@ -27,7 +33,14 @@ const portfolios = [
     title: "EdTech Games Login",
     description:
       "Welcome to the EdTech Games login page, your gateway to interactive learning through fun and educational games. Sign in to unlock a world of engaging activities that make education exciting and effective.",
-    technologies: ["HTML", "Angular14", "SASS", "Typescript", "Angular Material UI", "Bootstrap"],
+    technologies: [
+      "HTML",
+      "Angular14",
+      "SASS",
+      "Typescript",
+      "Angular Material UI",
+      "Bootstrap",
+    ],
     siteUrl: "https://login.edtechgames.com/login",
   },
   {
@@ -37,7 +50,17 @@ const portfolios = [
     title: "Zamplia",
     description:
       "Simplify your research projects. Easily find and choose the best respondent sources, all in one place, to save money, ensure feasibility, and maintain high quality.",
-    technologies: ["HTML", "CSS", "Javascript", "Azure Functions", "React.js","React Bootstrap", "Redux", "Node.js", "MySQL"],
+    technologies: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Azure Functions",
+      "React.js",
+      "React Bootstrap",
+      "Redux",
+      "Node.js",
+      "MySQL",
+    ],
     siteUrl: "https://zamplia.com/",
   },
   {
@@ -68,7 +91,16 @@ const portfolios = [
     title: "Dimitri",
     description:
       "Dimitra’s Connected Farmer platform empowers small farmers globally to track activities, receive detailed reports, and access recommendations that enhance profitability and living standards.",
-    technologies: ["HTML", "SCSS", "Typescript", "Angular", "Angular Material", "Bootstrap", "Node.js", "MySQL"],
+    technologies: [
+      "HTML",
+      "SCSS",
+      "Typescript",
+      "Angular",
+      "Angular Material",
+      "Bootstrap",
+      "Node.js",
+      "MySQL",
+    ],
     siteUrl: "https://dimitra.io/",
   },
   {
