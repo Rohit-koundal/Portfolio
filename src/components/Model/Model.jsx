@@ -27,6 +27,9 @@ export default function Model({activeId,setShowModel}) {
            <a target="_blank" href={portfolio.siteUrl}>
             <button className='bg-primaryColor text-white py-2 px-4 my-8 rounded-[8px] font-[500] hover:bg-headingColor ease-in duration-300'>Live Site</button>
            </a>
+           <a target="_blank" onClick={()=>setShowModel(false)}>
+            <button className='bg-red-700 text-white py-2 px-4 my-8 mx-3 rounded-[8px] font-[500] hover:bg-headingColor ease-in duration-300'>Close</button>
+           </a>
            </div>
            <button onClick={()=>setShowModel(false)} className='w-[1.8rem] h-[1.8rem] bg-[white] absolute top-[1.7rem] right-[1.7rem] text-[25px] flex items-center justify-center rounded-[3px] 
            leading-0 cursor-pointer'>&times;</button>
