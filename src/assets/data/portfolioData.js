@@ -1,5 +1,4 @@
-import portfolioImg01 from "../images/portfolio-01.jpg";
-import portfolioImg02 from "../images/portfolio-02.jpg";
+
 import portfolioImg04 from "../images/portfolio-04.jpg";
 import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
@@ -17,38 +16,38 @@ const portfolios = [
     category: "Web Design",
     title: "EdTech Games Website",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+      "EdTechGames seamlessly integrates learning and play, using data to personalize educational experiences while securely handling user activity and study patterns. Our platform fosters collaborative learning, making education engaging and effective.",
+    technologies: ["HTML", "Angular14", "SASS", "Typescript", "Angular Material UI", "Bootstrap"],
     siteUrl: "https://edtechgames.com/",
   },
   {
     id: "02",
     imgUrl: portfolioImg10,
     category: "Ux",
-    title: "Video Conference Website",
+    title: "EdTech Games Login",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+      "Welcome to the EdTech Games login page, your gateway to interactive learning through fun and educational games. Sign in to unlock a world of engaging activities that make education exciting and effective.",
+    technologies: ["HTML", "Angular14", "SASS", "Typescript", "Angular Material UI", "Bootstrap"],
     siteUrl: "https://login.edtechgames.com/login",
   },
   {
     id: "03",
     imgUrl: portfolioImg04,
     category: "Web Design",
-    title: "Zamplia.com",
+    title: "Zamplia",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+      "Simplify your research projects. Easily find and choose the best respondent sources, all in one place, to save money, ensure feasibility, and maintain high quality.",
+    technologies: ["HTML", "CSS", "Javascript", "Azure Functions", "React.js","React Bootstrap", "Redux", "Node.js", "MySQL"],
     siteUrl: "https://zamplia.com/",
   },
   {
     id: "04",
     imgUrl: portfolioImg08,
     category: "Ux",
-    title: "Restaurent Website",
+    title: "Dine Time",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+      "DineTime is your go-to platform for seamless table reservations and exploring a variety of dining options, ensuring a perfect culinary experience. Book your table effortlessly and discover the best restaurants in town with just a few clicks.",
+    technologies: ["HTML", "CSS", "Javascript", "React", "Node.js", "MongoDB"],
     siteUrl: "https://restaurant-mern-app-frontend.onrender.com",
   },
   {
@@ -57,8 +56,8 @@ const portfolios = [
     category: "Ux",
     title: "Drikpanchang.com",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+      "DrinkPanchang.com offers daily and weekly Kundali insights, along with detailed Rashiphal predictions, helping you stay aligned with cosmic energies. Explore the origins and significance of various festivals, making every celebration meaningful and informed.",
+    technologies: ["HTML", "CSS", "Javascript", "PHP", "C++"],
     siteUrl: "https://www.drikpanchang.com",
   },
 
@@ -68,8 +67,8 @@ const portfolios = [
     category: "Ux",
     title: "Dimitri",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+      "Dimitra’s Connected Farmer platform empowers small farmers globally to track activities, receive detailed reports, and access recommendations that enhance profitability and living standards.",
+    technologies: ["HTML", "SCSS", "Typescript", "Angular", "Angular Material", "Bootstrap", "Node.js", "MySQL"],
     siteUrl: "https://dimitra.io/",
   },
   {
@@ -78,79 +77,29 @@ const portfolios = [
     category: "Web Design",
     title: "Omni Food",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+      "Omni Food is your ultimate recipe hub, allowing you to search and discover a wide variety of delicious dishes. Find the perfect recipe for any occasion with just a few clicks.",
     technologies: ["HTML", "css", "Javascript"],
     siteUrl: "https://recipe-app-y7c1.onrender.com",
   },
   {
     id: "08",
-    imgUrl: portfolioImg01,
+    imgUrl: portfolioImg11,
     category: "Web Design",
-    title: "Finance Technology Website",
+    title: "Basic Mining",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+      "Start earning Bitcoin with basic Mining. Turnkey solutions to grow your bitcoin portfolio through bitcoin mining. You own the hardware, you earn the coin!",
+    technologies: ["React", "Tailwind css", "Node.js", "MySQL"],
+    siteUrl: "http://Basicmining.com",
   },
   {
     id: "09",
     imgUrl: portfolioImg12,
     category: "Ux",
-    title: "STUK Website",
+    title: "STUK",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "10",
-    imgUrl: portfolioImg11,
-    category: "Basic Mining Website",
-    title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "11",
-    imgUrl: portfolioImg04,
-    category: "Web Design",
-    title: "Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "12",
-    imgUrl: portfolioImg05,
-    category: "Web Design",
-    title: "Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "13",
-    imgUrl: portfolioImg06,
-    category: "Web Design",
-    title: "Online Therapy Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "14",
-    imgUrl: portfolioImg07,
-    category: "ux",
-    title: "Appointment Booking Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+      "STUK offers a complete towing & roadside assistance management software. We developed this software placing the business first, allowing a trouble free and transparent service to the customer.",
+    technologies: ["Angular", "SCSS", "Angular Material", "Node.js", "MySQL"],
+    siteUrl: "https://www.stuksoftware.com/",
   },
 ];
 

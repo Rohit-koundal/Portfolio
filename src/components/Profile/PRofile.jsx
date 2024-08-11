@@ -122,7 +122,7 @@ md:flex-col  md:justify-end md:text-end"
           >
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={3.6} duration={3} suffix="+" />
+                <CountUp start={0} end={5} duration={3} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[500] text-[18px]">
                 Years of Experience
