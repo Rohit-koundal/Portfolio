@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react'
+import React, { useEffect, useRef } from 'react';
 import resume from '../../assets/Rohit_FullStackDeveloper_Resume.pdf'
 const Header = () => {
 
